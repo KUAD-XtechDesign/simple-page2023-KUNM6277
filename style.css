@@ -2,7 +2,8 @@ body{
   font-family: "Helvetica Neue",Arial,"Hiragino Kaku Gothic ProN","Hiragino Sans",Meiryo,sans-serif;
   margin: 0;
   padding: 20px;
-  background-color: #ddd;
+  background: rgb(87,81,187);
+  background: radial-gradient(circle, rgba(87,81,187,1) 13%, rgba(122,133,213,1) 14%, rgba(25,25,145,1) 36%, rgba(21,10,171,1) 50%, rgba(0,212,255,1) 100%);
   line-height: 1.8;
 }
 
